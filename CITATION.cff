@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: freeopcua
+message: Open Source C++ OPC-UA Server and Client Library
+type: software
+authors:
+  - given-names: Denis
+    name-particle: destogl
+    email: denis@stoglrobotics.de
+    affiliation: StoglRobotics
+repository-code: 'https://github.com/FreeOpcUa/freeopcua'
+url: 'http://freeopcua.github.io/'
+abstract: >-
+  FreeOpcUa is a project to implement an open-source
+  (LGPL/GPL) OPC-UA stack and associated tools.
+keywords:
+  - opc-ua
+  - c++
+license: LGPL-3.0
